@@ -1,0 +1,19 @@
+<resources>
+
+    <dimen name="dimen_20">20dp</dimen>
+
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_100">100dp</dimen>
+
+    <dimen name="font_16">16sp</dimen>
+
+
+    <dimen name="defaultBtnWidth">210dp</dimen>
+    <dimen name="buttonsMargin">20dp</dimen>
+    <dimen name="doneSize">25dp</dimen>
+    <dimen name="drawableTextMargin">10dp</dimen>
+    <dimen name="progressRadius">10dp</dimen>
+    <dimen name="progressStroke">5dp</dimen>
+    <dimen name="textMarginStyled">20dp</dimen>
+</resources>
